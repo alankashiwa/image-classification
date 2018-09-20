@@ -1,5 +1,5 @@
 # Project: Image Classification
-The second project of [Udacity](https://www.udacity.com): [Deep Learning Nanodegree Foundation]
+The second project of [Udacity's](https://www.udacity.com) **Deep Learning Nanodegree Foundation**
 
 Classify images of airplanes, dogs, cats, and other objects using a convolutional neural network. Techniques like nomralization, one-hot encoding, and max pool layer are applied in the model building.
 
